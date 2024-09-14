@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muidgt.github.io/rGx/sitemap.rGx.gz
